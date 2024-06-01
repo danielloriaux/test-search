@@ -1,9 +1,9 @@
 {
   "enable": true,
   "include": [
-        "src/*.ts"
-    ],
-    "exclude": [
-        "**/*.spec.ts"
-    ]
+    "src/*.ts"
+  ],
+  "exclude": [
+    "**/*.spec.ts"
+  ]
 }
